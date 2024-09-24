@@ -54,4 +54,4 @@ SELECT num_column
 	CAST(num_column AS text)
 	FROM num_date_types;
 
-	SELECT CAST(char_column AS integer) FROM char_date_type
+--	SELECT CAST(char_column AS integer) FROM char_date_type;-- 
