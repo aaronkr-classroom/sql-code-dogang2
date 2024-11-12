@@ -13,5 +13,4 @@ INSERT INTO teachers (first_name, last_name, school, hire_date, salary)
 VALUES ('Janet', 'Smith', 'F.D.Roosevelt H.S.', '2011-10-30', 36200),
 		('Lee', 'Reynolds', 'F.D.Roosevelt H.S.', '1993-05-22', 6500),
 		('Samuel', 'Cole', 'Meyers M.S.', '2005-08-01', 43500);
-
 SELECT * from teachers;
